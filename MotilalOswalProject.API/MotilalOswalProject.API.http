@@ -1,0 +1,6 @@
+@MotilalOswalProject.API_HostAddress = http://localhost:5204
+
+GET {{MotilalOswalProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
